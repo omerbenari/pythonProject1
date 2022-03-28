@@ -9,6 +9,6 @@ if 10<=num<=99:
         print("this isnt a lucky number")
 else:
     print("error")
-bh
+
 
 
